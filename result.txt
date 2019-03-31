@@ -1,0 +1,55 @@
+
+Dla wierzcholka nr 0, odleglosc do najblizszego sklepu pod numerem 1 wynosi: 2.00, pokonasz ja w 24.00 minut
+0 -> 1 
+Jezeli tu mieszkasz to wygrales na loterii :D
+
+Dla wierzcholka nr 2, odleglosc do najblizszego sklepu pod numerem 9 wynosi: 2.50, pokonasz ja w 30.00 minut
+2 -> 3 -> 9 
+Dla wierzcholka nr 3, odleglosc do najblizszego sklepu pod numerem 9 wynosi: 1.50, pokonasz ja w 18.00 minut
+3 -> 9 
+Dla wierzcholka nr 4, odleglosc do najblizszego sklepu pod numerem 12 wynosi: 6.50, pokonasz ja w 78.00 minut
+4 -> 7 -> 6 -> 12 
+Dla wierzcholka nr 5, odleglosc do najblizszego sklepu pod numerem 9 wynosi: 3.50, pokonasz ja w 42.00 minut
+5 -> 3 -> 9 
+Dla wierzcholka nr 6, odleglosc do najblizszego sklepu pod numerem 12 wynosi: 2.50, pokonasz ja w 30.00 minut
+6 -> 12 
+Dla wierzcholka nr 7, odleglosc do najblizszego sklepu pod numerem 12 wynosi: 3.00, pokonasz ja w 36.00 minut
+7 -> 8 -> 12 
+Dla wierzcholka nr 8, odleglosc do najblizszego sklepu pod numerem 16 wynosi: 11.00, pokonasz ja w 132.00 minut
+8 -> 7 -> 6 -> 14 -> 16 
+Jezeli tu mieszkasz to wygrales na loterii :D
+
+Dla wierzcholka nr 10, odleglosc do najblizszego sklepu pod numerem 9 wynosi: 10.50, pokonasz ja w 126.00 minut
+10 -> 7 -> 4 -> 3 -> 9 
+Dla wierzcholka nr 11, odleglosc do najblizszego sklepu pod numerem 12 wynosi: 2.00, pokonasz ja w 24.00 minut
+11 -> 12 
+Jezeli tu mieszkasz to wygrales na loterii :D
+
+Dla wierzcholka nr 13, odleglosc do najblizszego sklepu pod numerem 12 wynosi: 2.00, pokonasz ja w 24.00 minut
+13 -> 12 
+Dla wierzcholka nr 14, odleglosc do najblizszego sklepu pod numerem 12 wynosi: 3.00, pokonasz ja w 36.00 minut
+14 -> 13 -> 12 
+Dla wierzcholka nr 15, odleglosc do najblizszego sklepu pod numerem 12 wynosi: 6.00, pokonasz ja w 72.00 minut
+15 -> 14 -> 13 -> 12 
+Jezeli tu mieszkasz to wygrales na loterii :D
+
+Dla wierzcholka nr 17, odleglosc do najblizszego sklepu pod numerem 1 wynosi: 1.80, pokonasz ja w 21.60 minut
+17 -> 1 
+Dla wierzcholka nr 18, odleglosc do najblizszego sklepu pod numerem 9 wynosi: 2.50, pokonasz ja w 30.00 minut
+18 -> 19 -> 20 -> 9 
+Dla wierzcholka nr 19, odleglosc do najblizszego sklepu pod numerem 22 wynosi: 2.10, pokonasz ja w 25.20 minut
+19 -> 18 -> 26 -> 25 -> 23 -> 22 
+Dla wierzcholka nr 20, odleglosc do najblizszego sklepu pod numerem 9 wynosi: 2.00, pokonasz ja w 24.00 minut
+20 -> 9 
+Dla wierzcholka nr 21, odleglosc do najblizszego sklepu pod numerem 22 wynosi: 0.50, pokonasz ja w 6.00 minut
+21 -> 22 
+Jezeli tu mieszkasz to wygrales na loterii :D
+
+Dla wierzcholka nr 23, odleglosc do najblizszego sklepu pod numerem 22 wynosi: 0.50, pokonasz ja w 6.00 minut
+23 -> 22 
+Dla wierzcholka nr 24, odleglosc do najblizszego sklepu pod numerem 22 wynosi: 2.50, pokonasz ja w 30.00 minut
+24 -> 23 -> 22 
+Dla wierzcholka nr 25, odleglosc do najblizszego sklepu pod numerem 22 wynosi: 1.50, pokonasz ja w 18.00 minut
+25 -> 23 -> 22 
+Dla wierzcholka nr 26, odleglosc do najblizszego sklepu pod numerem 22 wynosi: 1.80, pokonasz ja w 21.60 minut
+26 -> 25 -> 23 -> 22 
